@@ -1,0 +1,20 @@
+{
+  "name": "consultoria-notion-calendar",
+  "version": "1.0.0",
+  "description": "Sincronização Notion → Google Calendar",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Build da função serverless'",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.14",
+    "googleapis": "^118.0.0"
+  },
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
