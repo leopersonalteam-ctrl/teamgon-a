@@ -4,24 +4,5 @@
       "memory": 1024,
       "maxDuration": 60
     }
-  },
-  "env": [
-    {
-      "key": "NOTION_TOKEN",
-      "value": "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"
-    },
-    {
-      "key": "DATABASE_ID",
-      "value": "221bff99581181d4b89afd64464f8af5"
-    },
-    {
-      "key": "GOOGLE_CALENDAR_ID",
-      "value": "primary"
-    },
-    {
-      "key": "SECRET_TOKEN",
-      "value": "sk_live_5f1e8d3c2a7b9e4f1d6c5a8b"
-    }
-  ],
-  "buildCommand": "npm install"
+  }
 }
