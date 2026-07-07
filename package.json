@@ -11,6 +11,7 @@
     "@notionhq/client": "^2.2.14",
     "googleapis": "^118.0.0"
   },
-"engines": {
+  "engines": {
     "node": "24.x"
   }
+}
